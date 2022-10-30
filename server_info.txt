@@ -1,1 +1,1 @@
-online|GitHub
+[{"status":"online","name":"GitHub","type":"server_info"}]
